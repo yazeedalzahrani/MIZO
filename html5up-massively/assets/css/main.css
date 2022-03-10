@@ -3226,21 +3226,22 @@ input, select, textarea {
 		z-index: 1;
 		overflow: hidden;
 	}
-
+/*YAZEEED*/
 		#wrapper > .bg {
 			position: absolute;
 			top: 0;
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: #212931;
-			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
+			background-color: #ffffff;
+			background-image: url("../../images/pexels-adrienne-andersen-2347642.jpg"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");*/
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								no-repeat,													no-repeat;
 			background-attachment: scroll,								scroll,														scroll;
 			z-index: -1;
 		}
+	
 
 			#wrapper > .bg.fixed {
 				position: fixed;
@@ -3284,7 +3285,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		color: #ffffff;
+		color: #bebaba;
 		padding: 8rem 4rem 6rem 4rem ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
